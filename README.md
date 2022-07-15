@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MSoldatovI
-- 👀 I’m interested in learning how to beome a back-end developer
+- 👀 I’m interested in learning how to become a back-end developer
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me msoldatovi@yandex.ru
